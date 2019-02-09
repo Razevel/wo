@@ -1,7 +1,7 @@
 {
   "name": "woolly",
   "version": "0.0.100",
-  "description": "Woolmarket Yii2 + Vue app",
+  "description": "Yii2 API service for Woolmarket Vue app",
   "main": "index.js",
   "directories": {
     "test": "tests"

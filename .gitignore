@@ -1,3 +1,9 @@
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
 # phpstorm project files
 .idea
 
@@ -31,3 +37,10 @@ tests/_support/_generated
 
 #vagrant folder
 /.vagrant
+
+
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
