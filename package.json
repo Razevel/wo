@@ -1,0 +1,14 @@
+{
+  "name": "woolly",
+  "version": "0.0.100",
+  "description": "Woolmarket Yii2 + Vue app",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodionov E.A.",
+  "license": "ISC"
+}
